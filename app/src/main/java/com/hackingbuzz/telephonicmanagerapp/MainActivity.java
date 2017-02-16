@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.telephony.TelephonyManager;
 import android.widget.TextView;
 
+//Managers can Control Hardware ...... so Telephony Manger can Control Phone Type Specfic Hardware.
+
 public class MainActivity extends Activity {
     TextView tt;
 
